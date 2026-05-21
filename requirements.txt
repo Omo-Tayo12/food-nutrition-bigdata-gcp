@@ -1,6 +1,6 @@
 # ============================================================
 # requirements.txt — Big Data GCP Food Nutrition Project
-# York St John University | MSc Data Science 2025-26
+# York St John University | MSc Data Science 2026-27
 # ============================================================
 
 # Google Cloud SDKs
